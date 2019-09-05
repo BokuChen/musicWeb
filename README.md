@@ -1,4 +1,6 @@
 # music-corner
+[网站预览](https://longwindc.github.io/musicWeb/dist/index )
+
 
 ## Project setup
 ```
@@ -15,15 +17,14 @@ npm run serve
 npm run build
 ```
 
-### Run your tests
-```
-npm run test
-```
+### 任务列表
+- [ ] 静态页面布局
+- [ ] vuex引入 
+- [ ] 后端Express mysql 引入
+- [ ] 页面响应式 适配移动端
 
-### Lints and fixes files
-```
-npm run lint
-```
+### 更新日志
+#### 2019/9/4
+ - 完成静态首页轮播图布局，滚轮事件，导航栏路由，专辑页面的编写
+ -  mysql表建立，express初步学习
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
