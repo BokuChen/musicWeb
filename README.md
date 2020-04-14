@@ -1,5 +1,5 @@
 # music-corner
-[网站预览](https://longwindc.github.io/musicWeb/dist/index )
+[网站预览](https://BokuChen.github.io/musicWeb/dist/index )
 
 
 ## Project setup
